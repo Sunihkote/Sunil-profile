@@ -25,6 +25,6 @@
 - 🚀 Aspiring to combine tech and business to start my own company.
 
 ## Contact Me
-- 📧 [Email](mailto:sunilkote@example.com)
+- 📧 [Email](sunihkote@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sunil-h-kote-8a05951b0/)
-- 🌐 [Portfolio](https://sunilkote.github.io)
+- 🌐 [Portfolio](https://github.com/Sunihkote)
