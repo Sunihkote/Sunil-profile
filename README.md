@@ -21,7 +21,7 @@
 
 ## Fun Facts
 - 🌍 I love traveling, hiking, and exploring new adventures.
-- 🗣️ A natural speaker and leader, coming from a political family.
+- 🗣️ A natural speaker and leader.
 - 🚀 Aspiring to combine tech and business to start my own company.
 
 ## Contact Me
