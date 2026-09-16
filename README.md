@@ -26,5 +26,5 @@
 
 ## Contact Me
 - 📧 [Email](mailto:sunihkote@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sunil-h-kote-8a05951b0/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sunil-hanumanthegowda-kote-8a05951b0/)
 - 🌐 [Portfolio](https://github.com/Sunihkote)
