@@ -16,8 +16,8 @@
 - **Soft Skills:** Leadership, Public Speaking, Problem-Solving
 
 - ## What I'm Working On
-- 📚 Learning advanced **VLSI CAD tools**,**Embedded Systems and **Object-Oriented Design**.
-- 🔭 Planning to secure a **summer internship** in Embedded Systems.
+- 📚 Learning advanced **VLSI CAD tools**,**Embedded Systems** ""Automotive industry" and **Object-Oriented Design**.
+- 🔭 Planning to secure a **FULL Time Role** in Embedded Systems.
 
 ## Fun Facts
 - 🌍 I love traveling, hiking, and exploring new adventures.
